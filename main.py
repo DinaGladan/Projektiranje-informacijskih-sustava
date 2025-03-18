@@ -8,3 +8,4 @@ def nova_funkcija():
     return "Ovo je nova funkcija."ž
 
 # Ovo je moj komentar - VašeIme
+# ovo je komentar - Bogetic Karlo
